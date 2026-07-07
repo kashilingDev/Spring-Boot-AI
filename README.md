@@ -1,3 +1,3 @@
-# Spring-Boot-AI
+# Spring-Boot-Ao
 Spring boot AI applications
-Auther - Kashiling Valkunje
+Auth0r - Kashiling Valkunje
